@@ -1,0 +1,15 @@
+body{
+    padding-top: 100px;
+}
+
+.make-group{
+    background-color: rgb(244, 246, 248);
+    margin-bottom: 4rem;
+}
+
+.spacedpara{
+    padding-right: 5vw;
+}
+.myinputcolor{
+    background-color: rgb(244, 246, 248);
+}
